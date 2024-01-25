@@ -1,0 +1,46 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1706181908629,2074,getUserSpecificPermissions,200,OK,15-users-parallel 1-4,text,true,,777,3069,15,15,https://apis.dna-staging.hashedin.com/pulse/gql/,2074,0,939
+1706181908638,2103,getUserSpecificPermissions,200,OK,15-users-parallel 1-11,text,true,,777,3069,15,15,https://apis.dna-staging.hashedin.com/pulse/gql/,2103,0,957
+1706181908644,2147,getUserSpecificPermissions,200,OK,15-users-parallel 1-15,text,true,,777,3069,15,15,https://apis.dna-staging.hashedin.com/pulse/gql/,2147,0,945
+1706181908633,2197,getUserSpecificPermissions,200,OK,15-users-parallel 1-8,text,true,,777,3069,15,15,https://apis.dna-staging.hashedin.com/pulse/gql/,2197,0,935
+1706181908641,2189,getUserSpecificPermissions,200,OK,15-users-parallel 1-12,text,true,,777,3069,15,15,https://apis.dna-staging.hashedin.com/pulse/gql/,2189,0,942
+1706181908643,2205,getUserSpecificPermissions,200,OK,15-users-parallel 1-14,text,true,,777,3069,15,15,https://apis.dna-staging.hashedin.com/pulse/gql/,2205,0,971
+1706181908628,2223,getUserSpecificPermissions,200,OK,15-users-parallel 1-5,text,true,,777,3069,15,15,https://apis.dna-staging.hashedin.com/pulse/gql/,2222,0,973
+1706181908634,2223,getUserSpecificPermissions,200,OK,15-users-parallel 1-6,text,true,,777,3069,15,15,https://apis.dna-staging.hashedin.com/pulse/gql/,2223,0,948
+1706181908641,2217,getUserSpecificPermissions,200,OK,15-users-parallel 1-13,text,true,,777,3069,15,15,https://apis.dna-staging.hashedin.com/pulse/gql/,2217,0,927
+1706181908634,2225,getUserSpecificPermissions,200,OK,15-users-parallel 1-7,text,true,,777,3069,15,15,https://apis.dna-staging.hashedin.com/pulse/gql/,2225,0,970
+1706181910704,670,getUserOrganisationList,200,OK,15-users-parallel 1-4,text,true,,2809,3265,15,15,https://apis.dna-staging.hashedin.com/org_directory/gql/,670,0,0
+1706181910743,656,getUserOrganisationList,200,OK,15-users-parallel 1-11,text,true,,2791,3265,15,15,https://apis.dna-staging.hashedin.com/org_directory/gql/,656,0,0
+1706181910792,689,getUserOrganisationList,200,OK,15-users-parallel 1-15,text,true,,2793,3265,15,15,https://apis.dna-staging.hashedin.com/org_directory/gql/,689,0,0
+1706181910860,670,getUserOrganisationList,200,OK,15-users-parallel 1-7,text,true,,2791,3265,15,15,https://apis.dna-staging.hashedin.com/org_directory/gql/,670,0,0
+1706181910849,682,getUserOrganisationList,200,OK,15-users-parallel 1-14,text,true,,2809,3265,15,15,https://apis.dna-staging.hashedin.com/org_directory/gql/,682,0,0
+1706181910859,678,getUserOrganisationList,200,OK,15-users-parallel 1-13,text,true,,2789,3265,15,15,https://apis.dna-staging.hashedin.com/org_directory/gql/,678,0,0
+1706181910831,766,getUserOrganisationList,200,OK,15-users-parallel 1-8,text,true,,2793,3265,15,15,https://apis.dna-staging.hashedin.com/org_directory/gql/,766,0,0
+1706181910831,804,getUserOrganisationList,200,OK,15-users-parallel 1-12,text,true,,2791,3265,15,15,https://apis.dna-staging.hashedin.com/org_directory/gql/,804,0,0
+1706181910858,783,getUserOrganisationList,200,OK,15-users-parallel 1-6,text,true,,2809,3265,15,15,https://apis.dna-staging.hashedin.com/org_directory/gql/,783,0,0
+1706181910851,1152,getUserOrganisationList,200,OK,15-users-parallel 1-5,text,true,,2813,3265,15,15,https://apis.dna-staging.hashedin.com/org_directory/gql/,1152,0,0
+1706181911399,1027,CAM Specific getUserSpecificPermissions,200,OK,15-users-parallel 1-11,text,true,,945,3277,15,15,https://apis.dna-staging.hashedin.com/cam/gql/,1027,0,0
+1706181911375,1055,CAM Specific getUserSpecificPermissions,200,OK,15-users-parallel 1-4,text,true,,945,3277,14,14,https://apis.dna-staging.hashedin.com/cam/gql/,1055,0,0
+1706181911482,1012,CAM Specific getUserSpecificPermissions,200,OK,15-users-parallel 1-15,text,true,,945,3277,13,13,https://apis.dna-staging.hashedin.com/cam/gql/,1011,0,0
+1706181911531,1048,CAM Specific getUserSpecificPermissions,200,OK,15-users-parallel 1-14,text,true,,945,3277,12,12,https://apis.dna-staging.hashedin.com/cam/gql/,1048,0,0
+1706181911538,1041,CAM Specific getUserSpecificPermissions,200,OK,15-users-parallel 1-13,text,true,,945,3277,12,12,https://apis.dna-staging.hashedin.com/cam/gql/,1041,0,0
+1706181911531,1130,CAM Specific getUserSpecificPermissions,200,OK,15-users-parallel 1-7,text,true,,945,3277,10,10,https://apis.dna-staging.hashedin.com/cam/gql/,1130,0,0
+1706181911597,1079,CAM Specific getUserSpecificPermissions,200,OK,15-users-parallel 1-8,text,true,,945,3277,9,9,https://apis.dna-staging.hashedin.com/cam/gql/,1079,0,0
+1706181911637,1073,CAM Specific getUserSpecificPermissions,200,OK,15-users-parallel 1-12,text,true,,945,3277,8,8,https://apis.dna-staging.hashedin.com/cam/gql/,1072,0,0
+1706181911642,1105,CAM Specific getUserSpecificPermissions,200,OK,15-users-parallel 1-6,text,true,,945,3277,7,7,https://apis.dna-staging.hashedin.com/cam/gql/,1105,0,0
+1706181912004,1007,CAM Specific getUserSpecificPermissions,200,OK,15-users-parallel 1-5,text,true,,945,3277,6,6,https://apis.dna-staging.hashedin.com/cam/gql/,1007,0,0
+1706181908636,4387,getUserSpecificPermissions,200,OK,15-users-parallel 1-10,text,true,,777,3069,5,5,https://apis.dna-staging.hashedin.com/pulse/gql/,4387,0,975
+1706181908623,4604,getUserSpecificPermissions,200,OK,15-users-parallel 1-1,text,true,,777,3069,5,5,https://apis.dna-staging.hashedin.com/pulse/gql/,4604,0,976
+1706181908623,4655,getUserSpecificPermissions,200,OK,15-users-parallel 1-2,text,true,,777,3069,5,5,https://apis.dna-staging.hashedin.com/pulse/gql/,4655,0,996
+1706181908625,4658,getUserSpecificPermissions,200,OK,15-users-parallel 1-3,text,true,,777,3069,5,5,https://apis.dna-staging.hashedin.com/pulse/gql/,4658,0,988
+1706181908635,5009,getUserSpecificPermissions,200,OK,15-users-parallel 1-9,text,true,,777,3069,5,5,https://apis.dna-staging.hashedin.com/pulse/gql/,5009,0,933
+1706181913025,706,getUserOrganisationList,200,OK,15-users-parallel 1-10,text,true,,2813,3265,5,5,https://apis.dna-staging.hashedin.com/org_directory/gql/,706,0,0
+1706181913232,699,getUserOrganisationList,200,OK,15-users-parallel 1-1,text,true,,2813,3265,5,5,https://apis.dna-staging.hashedin.com/org_directory/gql/,699,0,0
+1706181913284,673,getUserOrganisationList,200,OK,15-users-parallel 1-3,text,true,,2809,3265,5,5,https://apis.dna-staging.hashedin.com/org_directory/gql/,673,0,0
+1706181913279,679,getUserOrganisationList,200,OK,15-users-parallel 1-2,text,true,,2791,3265,5,5,https://apis.dna-staging.hashedin.com/org_directory/gql/,679,0,0
+1706181913646,660,getUserOrganisationList,200,OK,15-users-parallel 1-9,text,true,,2791,3265,5,5,https://apis.dna-staging.hashedin.com/org_directory/gql/,660,0,0
+1706181913751,970,CAM Specific getUserSpecificPermissions,200,OK,15-users-parallel 1-10,text,true,,945,3277,5,5,https://apis.dna-staging.hashedin.com/cam/gql/,970,0,0
+1706181913932,1006,CAM Specific getUserSpecificPermissions,200,OK,15-users-parallel 1-1,text,true,,945,3277,4,4,https://apis.dna-staging.hashedin.com/cam/gql/,1005,0,0
+1706181913958,982,CAM Specific getUserSpecificPermissions,200,OK,15-users-parallel 1-3,text,true,,945,3277,4,4,https://apis.dna-staging.hashedin.com/cam/gql/,982,0,0
+1706181913959,1020,CAM Specific getUserSpecificPermissions,200,OK,15-users-parallel 1-2,text,true,,945,3277,2,2,https://apis.dna-staging.hashedin.com/cam/gql/,1020,0,0
+1706181914308,954,CAM Specific getUserSpecificPermissions,200,OK,15-users-parallel 1-9,text,true,,945,3277,1,1,https://apis.dna-staging.hashedin.com/cam/gql/,954,0,0
